@@ -2,20 +2,18 @@
 
 <br>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1c7ed6&height=120&section=header&text=Santhosh%20C%20C&fontSize=40&fontColor=f0f6fc&fontAlignY=65&animation=fadeIn&desc=Embedded%20Software%20Engineer%20%40%20Linumiz&descSize=14&descAlignY=85&descColor=8b949e)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2000&pause=800&color=F0F6FC&center=true&vCenter=true&width=600&height=60&lines=Santhosh+C+C" alt="Name" />
 
-<br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=14&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Zephyr+RTOS+Upstream+Contributor;Linux+Kernel+%7C+Driver+Development;Bare-metal+to+OS+boundary;FOSS+is+not+a+preference.+It+is+a+principle.)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Embedded+Software+Engineer+%40+Linumiz;Zephyr+RTOS+Upstream+Contributor;Linux+Kernel+%7C+Driver+Development;Bare-metal+to+OS+boundary;FOSS+is+not+a+preference.+It+is+a+principle." alt="Roles" />
 
 <br>
 
 <p>
   <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Linumiz-e03131?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linumiz-FF4444?style=flat-square&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Coimbatore_India-333?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Coimbatore,_India-333?style=flat-square"/>
 </p>
 
 </div>
@@ -45,14 +43,7 @@
 
 ## Zephyr Subsystems
 
-<br>
-
-![BLE](https://img.shields.io/badge/BLE-1864ab?style=flat-square)
-![USB Host](https://img.shields.io/badge/USB_Host-1864ab?style=flat-square)
-![LoRa](https://img.shields.io/badge/LoRa-1864ab?style=flat-square)
-![LTE Modem](https://img.shields.io/badge/LTE_Modem-1864ab?style=flat-square)
-![GNSS](https://img.shields.io/badge/GNSS-1864ab?style=flat-square)
-![NPU](https://img.shields.io/badge/NPU_MSPM0G3519-1864ab?style=flat-square)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=2000&pause=600&color=4B9CD3&center=false&vCenter=true&multiline=false&width=700&lines=BLE+·+USB+Host+·+LoRa+·+LTE+Modem+·+GNSS+·+NPU+%2F+MSPM0G3519" alt="Subsystems" />
 
 <br>
 
@@ -62,14 +53,7 @@
 
 ## Stack
 
-```c
-/* Languages  */   C  ·  Python  ·  Shell
-/* RTOS       */   Zephyr RTOS  |  West · Kconfig · DTS · Overlays
-/* Linux      */   Kernel Drivers · Yocto BSP · Mesa · DRM
-/* Protocols  */   CAN · SPI · I2C · BLE · USB · LoRa · LTE · GNSS
-/* Hardware   */   TI MSPM0 · NXP i.MX8MP · STM32
-/* Tools      */   GDB · OpenOCD · West · CMake
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=2200&pause=700&color=3FB950&center=false&vCenter=true&width=700&lines=Languages++++%2F%2F+C+·+Python+·+Shell;RTOS++++++++%2F%2F+Zephyr+RTOS+|+West+·+Kconfig+·+DTS+·+Overlays;Linux+++++++%2F%2F+Kernel+Drivers+·+Yocto+BSP+·+Mesa+·+DRM;Protocols+++%2F%2F+CAN+·+SPI+·+I2C+·+BLE+·+USB+·+LoRa+·+LTE;Hardware++++%2F%2F+TI+MSPM0+·+NXP+i.MX8MP+·+STM32;Tools+++++++%2F%2F+GDB+·+OpenOCD+·+West+·+CMake" alt="Stack" />
 
 <br>
 
@@ -83,6 +67,8 @@
 
 <br>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1c7ed6,100:0d1117&height=80&section=footer&fontSize=12&fontColor=484f58&text=KCTian%20%2725%20ECE%20·%20Paulian%20·%20Linumiz&fontAlignY=55&animation=fadeIn)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=12&duration=4000&pause=2000&color=484F58&center=true&vCenter=true&width=600&lines=KCTian+%2725+ECE+·+Paulian+·+Linumiz" alt="Footer" />
+
+<br>
 
 </div>
